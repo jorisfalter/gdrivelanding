@@ -32,6 +32,12 @@ function App() {
           <button>Sign Up</button>
         </div>
       </section>
+      <section className="image-section">
+        <img
+          src={`${process.env.PUBLIC_URL}/pricing-image.jpg`}
+          alt="Pricing"
+        />
+      </section>
     </div>
   );
 }

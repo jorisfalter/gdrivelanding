@@ -47,3 +47,13 @@
 .pricing-item button:hover {
   background: #21a1f1;
 }
+
+.image-section {
+  margin-top: 20px;
+}
+
+.image-section img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
