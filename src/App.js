@@ -33,10 +33,8 @@ function App() {
         </div>
       </section>
       <section className="image-section">
-        <img
-          src={`${process.env.PUBLIC_URL}/pricing-image.jpg`}
-          alt="Pricing"
-        />
+        <h1>This is not the image you want to see ...</h1>
+        <img src={`no-access.png`} alt="Pricing" />
       </section>
     </div>
   );
