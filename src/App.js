@@ -10,7 +10,7 @@ function App() {
           ...And your Google Drive contains the most important docs in your
           live?
         </h1>
-        <h2>Register now to do regular backups!</h2>
+        <h2>Register to do daily backups!</h2>
       </header>
       <section className="pricing">
         <div className="pricing-item">
